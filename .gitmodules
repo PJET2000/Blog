@@ -7,3 +7,9 @@
 [submodule "themes/spectral"]
 	path = themes/spectral
 	url = https://github.com/sbruder/spectral
+[submodule "themes/grayscale"]
+	path = themes/grayscale
+	url = https://github.com/startbootstrap/startbootstrap-grayscale
+[submodule "themes/ga-hugo-theme"]
+	path = themes/ga-hugo-theme
+	url = https://github.com/giraffeacademy/ga-hugo-theme.git

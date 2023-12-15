@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schnitzmöbel Testseite</title>
+    <link>https://pjet2000.github.io/Blog/</link>
+    <description>Recent content on Schnitzmöbel Testseite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Dec 2023 08:29:18 +0100</lastBuildDate><atom:link href="https://pjet2000.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secondpoost</title>
+      <link>https://pjet2000.github.io/Blog/posts/secondpoost/</link>
+      <pubDate>Fri, 15 Dec 2023 08:29:18 +0100</pubDate>
+      
+      <guid>https://pjet2000.github.io/Blog/posts/secondpoost/</guid>
+      <description>Hier ist auch nochmal neuer Inhalt
+halöööö</description>
+    </item>
+    
+    <item>
+      <title>Titel meines ersten Blog posts</title>
+      <link>https://pjet2000.github.io/Blog/posts/first-blog/</link>
+      <pubDate>Fri, 15 Dec 2023 08:18:11 +0100</pubDate>
+      
+      <guid>https://pjet2000.github.io/Blog/posts/first-blog/</guid>
+      <description>Hallo, das ist mein erster Blogeintrag nochmal mit ner
+Überschrift und natürlich content darunter
+hier ist och viel mehr content</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://pjet2000.github.io/Blog/posts/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pjet2000.github.io/Blog/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
