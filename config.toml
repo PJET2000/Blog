@@ -1,4 +1,4 @@
 baseURL = 'https://pjet2000.github.io/Blog/'
 languageCode = 'en-us'
 title = 'Schnitzmöbel Testseite'
-theme = "aether"
+theme = "contrast-hugo"
